@@ -19,7 +19,7 @@ Enables input and display of custom float fields with decimal seperator set in l
 ![](screenshots/example-float-without-plugin.png "Screenshot of example float field without plugin.")
 
 #### With plugin:
-![](screenshots/example-float-with-plugin.png "Screenshot of example float field without plugin.")
+![](screenshots/example-float-with-plugin.png "Screenshot of example float field with plugin.")
 
 ## Installation
 
