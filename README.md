@@ -25,8 +25,8 @@ Enables input and display of custom float fields with decimal seperator set in l
 
 To install the plugin, either clone it or download it and  xtract the directory into ur plugins directory in your redmine dir.
 
-    git clone github.com/ablidadev/locale_float_format.git
-    move locale_float_format into redmine/plugins/.
+    git clone https://github.com/ablidadev/redmine_locale_float_format.git
+    move redmine_locale_float_format into redmine/plugins/.
 
 More information on installing Redmine plugins can be found here: [Redmine Plugins](http://www.redmine.org/wiki/redmine/Plugins)
 
