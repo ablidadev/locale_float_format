@@ -13,7 +13,6 @@ Redmine plugin. Enables input and display of float custom fields with decimal se
 Enables input and display of custom float fields with decimal seperator set in locale.
 
 - number.format.separator
-- %A, %d.%m.%Y
 
 #### Without plugin:
 ![](screenshots/example-float-without-plugin.png "Screenshot of example float field without plugin.")
